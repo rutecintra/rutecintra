@@ -1,7 +1,7 @@
 ## Olá, pessoal! Eu sou a Rute Cintra 👋
 
-- 🔭 Hoje trabalho como Product Owner
-- 🌱 Estudando PHP, Python e React
+- 🔭 Hoje trabalho como Desenvolvedora Fullstack (PHP e JQuery)
+- 🌱 Estudando Python, Node, Angular e React
 - 😄 Pronomes: ela/dela
 
 <div>
