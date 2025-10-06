@@ -1,4 +1,4 @@
-## Olá, pessoal! Eu sou a Rute Cintra 👋
+## Hello! I'm Rute Cintra 👋
 
 - 🔭 I currently work with Python and React
 - 🌱 I have experience with PHP, Angular, JQuery, Node.
