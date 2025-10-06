@@ -1,8 +1,8 @@
 ## Olá, pessoal! Eu sou a Rute Cintra 👋
 
-- 🔭 Hoje trabalho como Desenvolvedora Fullstack (PHP e JQuery)
-- 🌱 Estudando Python, Node, Angular e React
-- 😄 Pronomes: ela/dela
+- 🔭 I currently work with Python and React
+- 🌱 I have experience with PHP, Angular, JQuery, Node.
+- 😄 Pronouns: she/her
 
 <div>
   <a href="https://github.com/rutecintra">
