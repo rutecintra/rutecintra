@@ -1,7 +1,7 @@
 ## Hello! I'm Rute Cintra 👋
 
-- 🔭 I currently work with Python and React
-- 🌱 I have experience with PHP, Angular, JQuery, Node.
+- 🔭 I currently work with PHP, Python and React
+- 🌱 I have experience with Angular, JQuery, Node.
 - 😄 Pronouns: she/her
 
 <div>
