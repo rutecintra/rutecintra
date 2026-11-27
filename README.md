@@ -1,32 +1,17 @@
-## Hello! I'm Rute Cintra 👋
+# Oi, I'm Rute Cintra.
 
-- 🔭 I currently work with PHP, Python and React
-- 🌱 I have experience with Angular, JQuery, Node.
-- 😄 Pronouns: she/her
+Full-stack developer in Maceió, Brazil · Education researcher · she/her
 
-<div>
-  <a href="https://github.com/rutecintra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rutecintra&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutecintra&layout=compact&langs_count=16&theme=dark"/>
-</div>
+I work on **Enumerate’s AI Pod**, where I build and maintain the Python services behind AI features for community association management. Most days that means async APIs with FastAPI, data in PostgreSQL, and following a request through the logs when it takes an unexpected turn.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="rute-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="rute-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="center" alt="rute-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="rute-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" alt="rute-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="rute-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-</div>
+### Two tabs I always have open
 
-##
+**`~/code`** · My full-stack roots are in PHP, Laravel, jQuery, and MySQL. These days I spend more time in Python, but I still like tracing a problem all the way from the button someone clicked to the query it ran.
 
-<div>
-  <a href="https://www.linkedin.com/in/ruteoliveiracintra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/rute_bina/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/rute_bina" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+**`~/research`** · I’m pursuing a master’s in Education at the Federal University of Alagoas (UFAL). I study how Maceió’s municipal school system is putting Brazil’s computing curriculum into practice, and what that means for the teachers expected to teach it.
 
-  <!-- ![Snake animarion](https://github.con/rutecintra/rutecintra/blop/output/github-contribuition-grid-snake.svg) -->
-  
-</div>
+### Away from the keyboard
 
+I’m learning to play songs by ear on guitar. My home audience is Aurora, Glinda, Olga, and Suki. All four are cats. Reviews are pending.
+
+[LinkedIn](https://www.linkedin.com/in/ruteoliveiracintra/) · [Instagram](https://www.instagram.com/rute_bina/) · [Telegram](https://t.me/rute_bina)
