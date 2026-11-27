@@ -1,6 +1,6 @@
 # Rute Cintra
 
-**Full-stack Developer · AI Pod at Enumerate**  
+**Tech Lead · AI Pod at Enumerate**  
 I build Python APIs for AI features in community association software.
 
 ### Current stack
