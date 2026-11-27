@@ -1,11 +1,11 @@
 # Rute Cintra
 
 **Tech Lead · AI Pod at Enumerate**  
-I build Python APIs for AI features in community association software.
+I build Python APIs for community association software and use a vector database to support machine learning model training.
 
 ### Current stack
 
-![Python](https://img.shields.io/badge/Python-155E63?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-155E63?style=for-the-badge&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-155E63?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-155E63?style=for-the-badge&logo=redis&logoColor=white)
+![Python](https://img.shields.io/badge/Python-155E63?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-155E63?style=for-the-badge&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-155E63?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-155E63?style=for-the-badge&logo=mongodb&logoColor=white) ![Vector DB](https://img.shields.io/badge/Vector%20DB-155E63?style=for-the-badge) ![Redis](https://img.shields.io/badge/Redis-155E63?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Full-stack toolkit
 
